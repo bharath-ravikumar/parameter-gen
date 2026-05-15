@@ -1,6 +1,6 @@
-# parameter_gen
+# Input parameter generation
 
-Utilities for generating LAMMPS/mDPD input settings and extracting simulation outputs.
+Utilities for generating LAMMPS/MDPD input settings and extracting simulation outputs.
 
 ## Workflow (recommended)
 
